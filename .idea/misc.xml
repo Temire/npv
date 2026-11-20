@@ -1,0 +1,22 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/backend/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/cdn-service/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/npv-auth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/npv-file-service/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/npv-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/npv-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/npv-document-service/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/npv-management-service/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/npv-authorization-server/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/npv-notification-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
